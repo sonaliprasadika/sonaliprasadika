@@ -1,6 +1,16 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my GitHub!
 
-- 🔭 My Digital Skills: Node.js, Express.js, Java, Kotlin, Python, AWS, Javascript, Typescript, Angular, React Native, MySQL, Firebase, Spring Boot, Git, Jira, HTML, CSS
-- 🌱 I am pursuing my master’s degree in the field of Computer Science and Engineering at the University of Oulu.
-- 📫 How to reach me: https://www.linkedin.com/in/sonali-prasadika-36276b181/
-- ⚡ Fun fact: Coding lover
+I’m **Sonali**, and I’m happy to see you here 😊  
+
+🌍 Originally from **Sri Lanka 🇱🇰** | Currently living in **Oulu, Finland 🇫🇮**  
+🎓 Master’s graduate in **Computer Science and Engineering** from the **University of Oulu** (Aug 2025)  
+💼 Currently working as a **Generative AI Developer** at the **University of Oulu**
+
+---
+
+## 👩‍💻 About Me
+
+I’m passionate about building **GenAI-powered software solutions** and exploring how **LLMs** can be integrated into real-world applications.  
+
+---
+Thanks for visiting my profile — feel free to check out my repositories and connect with me! ⭐
