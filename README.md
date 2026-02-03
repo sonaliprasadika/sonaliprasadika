@@ -8,10 +8,7 @@
 
 ## A little bit about myself
 
-- 🎓 Master’s graduate in **Computer Science & Engineering** (University of Oulu)
-- 💼 Working as a **Generative AI Developer** at the **University of Oulu**
-- 🔥 Interested in **LLMs, RAG systems, backend development, and AI-powered applications**
--  Originally from **Sri Lanka**, currently living in **Oulu, Finland**
+I’m a Master’s graduate in Computer Science & Engineering from the University of Oulu, currently working as a Generative AI Developer at the University of Oulu, and I’m especially interested in LLMs, RAG systems, backend development, and AI-powered applications.
 
 ---
 
